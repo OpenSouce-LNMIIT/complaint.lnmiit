@@ -6,7 +6,7 @@ It is an online portal that allows one to lodge online grievances.
 ### Need for implementing it
 
 Now, instead of going and searching for register and lodging the complaints physically, we can directly lodge the grievances using complaint.lnmiit
-It would hence become more convinient for both students as well as task assigner.
+It would hence become more convenient for both students as well as task assigner.
 
 ---
 
@@ -21,4 +21,4 @@ It would hence become more convinient for both students as well as task assigner
   
   ![Mess](https://user-images.githubusercontent.com/25201562/30340988-02790a0a-9812-11e7-8f71-73bd2acf4752.png)
   
-  #### For complete form please visit : https://punit403.typeform.com/to/SQTT7n Enter some random data to view form clealy
+  #### For complete form please visit : https://punit403.typeform.com/to/SQTT7n. Enter some random data to view form clearly.
