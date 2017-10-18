@@ -14,3 +14,11 @@ ol {
 input[type="button"]{
 	width: 20%;
 }
+
+input[type="text"] {
+	width: 60%;
+	border-width: 0.5px 0.5px 3px 1px;
+	border-color: #1aa3ff;
+	font-size: 18pt;
+	color: #1aa3ff;
+}
