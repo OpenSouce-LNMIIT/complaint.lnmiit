@@ -15,12 +15,29 @@ ol {
 
 input[type="button"]{
 	width: 20%;
+	margin: 10px;
+	padding: 5px;
+	/*border-color: #4FB0AE;*/
+	color: #ffffff;
+	font-size: 18pt;
+	background-color: #4FB0AE;
+	border-style: none;
+
 }
 
 input[type="text"] {
 	width: 60%;
 	border-width: 0px 0px 2px 0px;
 	border-bottom-color: #102323;
+	border-style: groove;
+	font-size: 18pt;
+	color: #4FB0AE;
+}
+input[type="email"] {
+	width: 60%;
+	border-width: 0px 0px 2px 0px;
+	border-bottom-color: #102323;
+	border-style: groove;
 	font-size: 18pt;
 	color: #4FB0AE;
 }
