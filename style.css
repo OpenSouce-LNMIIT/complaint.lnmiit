@@ -1,0 +1,16 @@
+.topic {
+	font-size: 16pt;
+}
+
+.decription {
+	font-size: 12pt;
+}
+
+ol {
+	margin-left: 200px;
+	width: 80%;
+}
+
+input[type="button"]{
+	width: 20%;
+}
