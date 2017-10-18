@@ -1,13 +1,15 @@
 .topic {
 	font-size: 16pt;
+	color: #333333;
 }
 
-.decription {
+.description {
 	font-size: 12pt;
+	color: #787878;
 }
 
 ol {
-	margin-left: 200px;
+	margin-left: 15%;
 	width: 80%;
 }
 
@@ -17,8 +19,8 @@ input[type="button"]{
 
 input[type="text"] {
 	width: 60%;
-	border-width: 0.5px 0.5px 3px 1px;
-	border-color: #1aa3ff;
+	border-width: 0px 0px 2px 0px;
+	border-bottom-color: #102323;
 	font-size: 18pt;
-	color: #1aa3ff;
+	color: #4FB0AE;
 }
