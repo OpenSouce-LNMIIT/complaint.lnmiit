@@ -3,6 +3,10 @@ It is an online portal that allows one to lodge online grievances.
 
 ---
 
+### View current progress at: https://cybros.github.io/complaint.lnmiit/index.html 
+
+---
+
 ### Need for implementing it
 
 Now, instead of going and searching for register and lodging the complaints physically, we can directly lodge the grievances using complaint.lnmiit
